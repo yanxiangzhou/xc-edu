@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "eureka.instance",
+      "type": "java.lang.String",
+      "description": "Description for eureka.instance."
+    },
+    {
+      "name": "eureka.instance",
+      "type": "java.lang.String",
+      "description": "Description for eureka.instance."
+    }
+  ] }
